@@ -1,0 +1,48 @@
+body {
+    background-color:mintcream;
+}
+
+div#AboutSection {
+    background-color: mintcream;
+    position: relative;
+    bottom: 410px;
+    left: 350px;
+}
+
+div#Education {
+background-color: mintcream;
+width: 500px;
+border: solid;
+border-color: black;
+position: relative;
+bottom: 150px;
+
+}
+
+div#WorkExperience {
+    background-color: mintcream;
+    width: 530px;
+    border: solid;
+    border-color: black;
+    position: relative;
+    bottom: 577px;
+    left: 510px;
+}
+
+div#Testimonials {
+    background-color: mintcream;
+    width: 530px;
+    border: solid;
+    border-color: black;
+    position: relative;
+    bottom: 565px;
+    left: 510px;
+}
+
+div#ContactMe {
+    background-color: mintcream;
+    width: 530px;
+    position: relative;
+    bottom: 1200px;
+    left: 350px;
+}
